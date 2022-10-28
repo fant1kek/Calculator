@@ -1,11 +1,11 @@
-#Описание проекта
+# Описание проекта
 Данный проект был написан на языке программирования **C#** и позволяет выполнять простые арифметические операции.
 
 При написании данной программы были соблюдены [Общие требования](https://drive.google.com/file/d/1pG7LePLCTgWDAHcDCO2xN_1V6AvABwZw/view)
 
 ![MyCalculator](https://sun9-west.userapi.com/sun9-47/s/v1/ig2/giEnrxcZe3g2BiB_qp2mDhbzBgeHVvjAW9R1RFu-L_w5d9qUYDvPchTq0tnOkN5Ml_wpsipEmwq2hfGR2gw-6HN4.jpg?size=358x396&quality=96&type=album)
 
-#Описание классов и методов
+# Описание классов и методов
 
 - **Util**
     - *Calc* - Вызывает методы для арифметических действий и обрабатывает исключения;
@@ -20,7 +20,7 @@
     - *setNum* - Проверяет кол-во введенных символов и устанавливает символ если присутствует место;
     - *setSign* - Устанавливает арифметический знак;
 
-#Инструкция по запуску проекта
+# Инструкция по запуску проекта
 
 1. На вашем компьютере должны быть установлены Ж
     - **Windows** или **macOS**;
@@ -33,11 +33,11 @@ git clone https://github.com/fant1kek/Calculator.git
 ```
 3. Откройте **Calculator.sln** и запустите проект;
 
-#Илюстрация работы приложения
+# Илюстрация работы приложения
 
 <div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ykmqz"></iframe></div>
 
-#Инструкция по работе с приложением
+# Инструкция по работе с приложением
 
 Для работы с калькулятором вам необходимо:
 1. Выбрать первый операнд;
