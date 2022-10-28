@@ -3,7 +3,8 @@
 
 При написании данной программы были соблюдены [Общие требования](https://drive.google.com/file/d/1pG7LePLCTgWDAHcDCO2xN_1V6AvABwZw/view)
 
-![MyCalculator](https://raw.githubusercontent.com/fant1kek/IMG/main/giEnrxcZe3g2BiB_qp2mDhbzBgeHVvjAW9R1RFu-L_w5d9qUYDvPchTq0tnOkN5Ml_wpsipEmwq2hfGR2gw-6HN4.jpg?token=GHSAT0AAAAAAB2PPC3MWR3JE3FB26UBPI6UY23VWEA)
+![MyCalculator](https://user-images.githubusercontent.com/82901435/198687513-578f1132-ae1d-4129-89cd-448605d4f644.jpg)
+
 
 # Описание классов и методов
 
@@ -40,7 +41,7 @@ git clone https://github.com/fant1kek/Calculator.git
 
 # Илюстрация работы приложения
 
-![illustration](https://raw.githubusercontent.com/fant1kek/IMG/main/2022-10-28%2003-30-06.gif?token=GHSAT0AAAAAAB2PPC3NVKTSA6YFGLP7M4QOY23VVKQ)
+![illustration](https://user-images.githubusercontent.com/82901435/198687661-0a905402-acac-4c1c-8ddd-06ca24d8e0a2.gif)
 
 # Инструкция по работе с приложением
 
@@ -57,6 +58,7 @@ git clone https://github.com/fant1kek/Calculator.git
 
 Все методы были протестированы успешно
 
-![tests](https://raw.githubusercontent.com/fant1kek/IMG/main/pXfn_trI_Hk3NhL8HgukN7HKNwzy_I0TUjTaOJZUoXtZFZn4F621mkhjxnEtXR5q_Z4WBYwdGHRh1IFnfUxCm9rw.jpg?token=GHSAT0AAAAAAB2PPC3MDBP2MWQNGJUXOBGCY23VXEA)
+![tests](https://user-images.githubusercontent.com/82901435/198687748-5133217e-977f-4fc4-9a36-01b88d6784f2.jpg)
+
 
 Для написания юнит-тестов был использован бесплатный инструмент модульного тестирования xUnit
