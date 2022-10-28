@@ -16,10 +16,10 @@
     - *Minus* - Метод вычитания;
     - *GetValues* - Производит поиск в строке и разделяет ее на арифметический знак, первый и второй операнды;
 - **Form1**
-    - *buttonZero_Click - buttonNine_Click* - Ввод чисел;
+    - *buttonZero_Click - buttonNine_Click* - Обработка нажатий на цифры;
     - *buttonClear_Click* - Очистка поля ввода;
     - *buttonPlusMinus_Click* - Делает число отрицательным\положительным;
-    - *buttonSum_Click, buttonMinus_Click, buttonMultiply_Click, buttonDivide_Click* - Ввод арифметических действий;
+    - *buttonSum_Click, buttonMinus_Click, buttonMultiply_Click, buttonDivide_Click* - Обработка нажатий на кнопки с арифметическими действиями;
     - *buttonEquals_Click* - Получения результат введенного выражения;
     - *checkExpression* - Выводит результат, если введены больше 2-ух операндов;
     - *checkNum* - Проверяет, является ли число отрицательным и если нужно устанавливает знак "-";
