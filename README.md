@@ -3,7 +3,7 @@
 
 При написании данной программы были соблюдены [Общие требования](https://drive.google.com/file/d/1pG7LePLCTgWDAHcDCO2xN_1V6AvABwZw/view)
 
-![MyCalculator](https://sun9-west.userapi.com/sun9-47/s/v1/ig2/giEnrxcZe3g2BiB_qp2mDhbzBgeHVvjAW9R1RFu-L_w5d9qUYDvPchTq0tnOkN5Ml_wpsipEmwq2hfGR2gw-6HN4.jpg?size=358x396&quality=96&type=album)
+![MyCalculator](https://raw.githubusercontent.com/fant1kek/IMG/main/giEnrxcZe3g2BiB_qp2mDhbzBgeHVvjAW9R1RFu-L_w5d9qUYDvPchTq0tnOkN5Ml_wpsipEmwq2hfGR2gw-6HN4.jpg?token=GHSAT0AAAAAAB2PPC3NZZTWTSDYJEDVSV3YY23F67A)
 
 # Описание классов и методов
 
@@ -35,7 +35,7 @@ git clone https://github.com/fant1kek/Calculator.git
 
 # Илюстрация работы приложения
 
-<div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ykmqz"></iframe></div>
+![illustration](https://raw.githubusercontent.com/fant1kek/IMG/main/2022-10-28%2003-30-06.gif?token=GHSAT0AAAAAAB2PPC3MJ5KU7PT2ITDGU3JUY23F6HA)
 
 # Инструкция по работе с приложением
 
@@ -52,6 +52,6 @@ git clone https://github.com/fant1kek/Calculator.git
 
 Все методы были протестированы успешно
 
-![tests](https://sun9-east.userapi.com/sun9-74/s/v1/ig2/pXfn_trI_Hk3NhL8HgukN7HKNwzy_I0TUjTaOJZUoXtZFZn4F621mkhjxnEtXR5q_Z4WBYwdGHRh1IFnfUxCm9rw.jpg?size=337x373&quality=96&type=album)
+![tests](https://raw.githubusercontent.com/fant1kek/IMG/main/pXfn_trI_Hk3NhL8HgukN7HKNwzy_I0TUjTaOJZUoXtZFZn4F621mkhjxnEtXR5q_Z4WBYwdGHRh1IFnfUxCm9rw.jpg?token=GHSAT0AAAAAAB2PPC3MXTWG4A2HRH7OPOTMY23F7OQ)
 
 Для написания юнит-тестов был использован бесплатный инструмент модульного тестирования xUnit
