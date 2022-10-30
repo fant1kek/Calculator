@@ -37,7 +37,7 @@
 ```git
 git clone https://github.com/fant1kek/Calculator.git
 ```
-3. Откройте **Calculator.sln** и запустите проект;
+3. Откройте **Calculator-main/Calculator.sln** и запустите проект;
 
 # Илюстрация работы приложения
 
